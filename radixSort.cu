@@ -123,5 +123,5 @@ __device__ void partitionByBit(unsigned int *values, unsigned int bit){
     else{
         values[currentThread trueBitsBefore] = currentElement;
     }
-
+}
 
